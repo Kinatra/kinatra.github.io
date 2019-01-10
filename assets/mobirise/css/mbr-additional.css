@@ -2503,6 +2503,29 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #fdb319 !important;
 }
+.cid-reLllEp1Jl {
+  background: #ffffff;
+}
+.cid-reLllEp1Jl .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-reLllEp1Jl .mbr-figure {
+  margin: 0 auto;
+}
+.cid-reLllEp1Jl figcaption {
+  position: relative;
+}
+.cid-reLllEp1Jl figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-reLllEp1Jl .image-block {
+    width: 100% !important;
+  }
+}
 .cid-reLjTDCU8m {
   background: #ffffff;
 }
