@@ -2503,3 +2503,15 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #fdb319 !important;
 }
+.cid-reLjTDCU8m {
+  background: #ffffff;
+}
+.cid-reLjTDCU8m .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-reLjTDCU8m .video-block {
+    width: 100% !important;
+  }
+}
