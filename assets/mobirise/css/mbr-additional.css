@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Lato', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -659,13 +659,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Lato', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 .form-control,
 .form-control:focus {
@@ -2052,29 +2052,6 @@ body {
     width: 100% !important;
   }
 }
-.cid-reLpWj8WUW {
-  background: #ffffff;
-}
-.cid-reLpWj8WUW .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-reLpWj8WUW .mbr-figure {
-  margin: 0 auto;
-}
-.cid-reLpWj8WUW figcaption {
-  position: relative;
-}
-.cid-reLpWj8WUW figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-reLpWj8WUW .image-block {
-    width: 100% !important;
-  }
-}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -2143,7 +2120,13 @@ body {
   }
 }
 .cid-qTkAaeaxX5 B {
+  color: #efefef;
+}
+.cid-qTkAaeaxX5 I {
   color: #fdb319;
+}
+.cid-qTkAaeaxX5 H5 {
+  color: #cccccc;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -2548,6 +2531,47 @@ body {
   .cid-reLllEp1Jl .image-block {
     width: 100% !important;
   }
+}
+.cid-reWZjmy38f {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-reWZjmy38f .mbr-text,
+.cid-reWZjmy38f blockquote {
+  color: #767676;
+}
+.cid-reWZ5tfwnH {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-reWZ5tfwnH .counter-container {
+  color: #767676;
+}
+.cid-reWZ5tfwnH .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-reWZ5tfwnH .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-reWZ5tfwnH .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
 }
 .cid-reLqD5uEwh {
   padding-top: 60px;
