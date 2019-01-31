@@ -2606,16 +2606,29 @@ body {
 .cid-rgK8b4Vp5d P {
   color: #232323;
 }
-.cid-reWZjmy38f {
+.cid-rgKjrDpT7O {
   padding-top: 0px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-reWZjmy38f .mbr-text,
-.cid-reWZjmy38f blockquote {
+.cid-rgKjrDpT7O .mbr-text,
+.cid-rgKjrDpT7O blockquote {
   color: #767676;
 }
-.cid-reWZjmy38f .mbr-text {
+.cid-rgKjrDpT7O .mbr-text P {
+  color: #232323;
+}
+.cid-rgKdniAUxw {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rgKdniAUxw .mbr-text,
+.cid-rgKdniAUxw blockquote {
+  color: #767676;
+}
+.cid-rgKdniAUxw .mbr-text {
+  text-align: left;
   color: #232323;
 }
 .cid-reWZ5tfwnH {
