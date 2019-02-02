@@ -2,8 +2,6 @@
 
 
 
-
-
 body {
   font-style: normal;
   line-height: 1.5;
@@ -41,18 +39,18 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Ysabeau-Semibold';
   font-size: 1.9rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 3.04rem;
 }
 .display-7 {
-  font-family: 'Lato', sans-serif;
-  font-size: 1.2rem;
+  font-family: 'Ysabeau-Medium';
+  font-size: 0.91rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.456rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -658,14 +656,14 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Lato', sans-serif;
-  font-size: 1.2rem;
+  font-family: 'Ysabeau-Medium';
+  font-size: 0.91rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.456rem;
 }
 .form-control,
 .form-control:focus {
@@ -2120,7 +2118,7 @@ body {
   }
 }
 .cid-qTkAaeaxX5 B {
-  color: #ffffff;
+  color: #fdb319;
 }
 .cid-qTkAaeaxX5 I {
   color: #fdb319;
