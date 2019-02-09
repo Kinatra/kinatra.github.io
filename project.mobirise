@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Miauso en català",
-    "currentPage": "marcal.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -13,14 +13,14 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Lato",
-        "display1Size": 4.25,
+        "display1Font": "URWClassico-Bold",
+        "display1Size": "3.0",
         "display2Font": "Lato",
         "display2Size": 3,
-        "display5Font": "Ysabeau-Semibold",
-        "display5Size": "1.9",
-        "display7Font": "Ysabeau-Medium",
-        "display7Size": "0.91",
+        "display5Font": "Average",
+        "display5Size": "1.5",
+        "display7Font": "Ysabeau-Semilight",
+        "display7Size": "1.0",
         "display4Font": "Lato",
         "display4Size": 1,
         "isRoundedButtons": true,
@@ -65,22 +65,90 @@
         "url": "https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
       },
       {
-        "css": "'Ysabeau-Medium'",
-        "name": "Ysabeau-Medium",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/Ysabeau-Medium/font.ttf"
+        "css": "'GFS Didot', serif",
+        "name": "GFS Didot",
+        "url": "https://fonts.googleapis.com/css?family=GFS+Didot:400"
       },
       {
-        "css": "'Ysabeau-Light'",
-        "name": "Ysabeau-Light",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/Ysabeau-Light/font.ttf"
+        "css": "'Prata', serif",
+        "name": "Prata",
+        "url": "https://fonts.googleapis.com/css?family=Prata:400"
       },
       {
-        "css": "'Ysabeau-Black'",
-        "name": "Ysabeau-Black",
+        "css": "'Slabo 27px', serif",
+        "name": "Slabo 27px",
+        "url": "https://fonts.googleapis.com/css?family=Slabo+27px:400"
+      },
+      {
+        "css": "'Lora', serif",
+        "name": "Lora",
+        "url": "https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i"
+      },
+      {
+        "css": "'Nunito', sans-serif",
+        "name": "Nunito",
+        "url": "https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
+      },
+      {
+        "css": "'Crimson Text', serif",
+        "name": "Crimson Text",
+        "url": "https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600,600i,700,700i"
+      },
+      {
+        "css": "'Questrial', sans-serif",
+        "name": "Questrial",
+        "url": "https://fonts.googleapis.com/css?family=Questrial:400"
+      },
+      {
+        "css": "'Asap', sans-serif",
+        "name": "Asap",
+        "url": "https://fonts.googleapis.com/css?family=Asap:400,400i,500,500i,600,600i,700,700i"
+      },
+      {
+        "css": "'Varela Round', sans-serif",
+        "name": "Varela Round",
+        "url": "https://fonts.googleapis.com/css?family=Varela+Round:400"
+      },
+      {
+        "css": "'Cantarell', sans-serif",
+        "name": "Cantarell",
+        "url": "https://fonts.googleapis.com/css?family=Cantarell:400,400i,700,700i"
+      },
+      {
+        "css": "'Play', sans-serif",
+        "name": "Play",
+        "url": "https://fonts.googleapis.com/css?family=Play:400,700"
+      },
+      {
+        "css": "'Maven Pro', sans-serif",
+        "name": "Maven Pro",
+        "url": "https://fonts.googleapis.com/css?family=Maven+Pro:400,500,700,900"
+      },
+      {
+        "css": "'Playfair Display', serif",
+        "name": "Playfair Display",
+        "url": "https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i"
+      },
+      {
+        "css": "'Libre Baskerville', serif",
+        "name": "Libre Baskerville",
+        "url": "https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700"
+      },
+      {
+        "css": "'Libre Franklin', sans-serif",
+        "name": "Libre Franklin",
+        "url": "https://fonts.googleapis.com/css?family=Libre+Franklin:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+      },
+      {
+        "css": "'Sorts Mill Goudy', serif",
+        "name": "Sorts Mill Goudy",
+        "url": "https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy:400,400i"
+      },
+      {
+        "css": "'Ysabeau-Extralight'",
+        "name": "Ysabeau-Extralight",
         "url": null,
-        "file": "@PROJECT_PATH@/fonts/Ysabeau-Black/font.ttf"
+        "file": "@PROJECT_PATH@/fonts/Ysabeau-Extralight/font.ttf"
       },
       {
         "css": "'Ysabeau-Bold'",
@@ -89,27 +157,54 @@
         "file": "@PROJECT_PATH@/fonts/Ysabeau-Bold/font.ttf"
       },
       {
-        "css": "'YsabeauInfant-Regular'",
-        "name": "YsabeauInfant-Regular",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/YsabeauInfant-Regular/font.ttf"
+        "css": "'Vidaloka', serif",
+        "name": "Vidaloka",
+        "url": "https://fonts.googleapis.com/css?family=Vidaloka:400"
       },
       {
-        "css": "'YsabeauInfant-Semibold'",
-        "name": "YsabeauInfant-Semibold",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/YsabeauInfant-Semibold/font.ttf"
+        "css": "'Lusitana', serif",
+        "name": "Lusitana",
+        "url": "https://fonts.googleapis.com/css?family=Lusitana:400,700"
       },
       {
-        "css": "'Ysabeau-Semibold'",
-        "name": "Ysabeau-Semibold",
+        "css": "'URWClassico-Regular'",
+        "name": "URWClassico-Regular",
         "url": null,
-        "file": "@PROJECT_PATH@/fonts/Ysabeau-Semibold/font.ttf"
+        "file": "@PROJECT_PATH@/fonts/URWClassico-Regular/font.ttf"
+      },
+      {
+        "css": "'URWClassico-Bold'",
+        "name": "URWClassico-Bold",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/URWClassico-Bold/font.ttf"
+      },
+      {
+        "css": "'Rosario', sans-serif",
+        "name": "Rosario",
+        "url": "https://fonts.googleapis.com/css?family=Rosario:400,400i,700,700i"
+      },
+      {
+        "css": "'YsabeauInfant-Semilight'",
+        "name": "YsabeauInfant-Semilight",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/YsabeauInfant-Semilight/font.ttf"
+      },
+      {
+        "css": "'Ysabeau-Semilight'",
+        "name": "Ysabeau-Semilight",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/Ysabeau-Semilight/font.ttf"
+      },
+      {
+        "css": "'Benne-Regular'",
+        "name": "Benne-Regular",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/Benne-Regular/font.ttf"
       }
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 21,
-    "versionPublish": "4.8.10",
+    "versionPublish": "4.9.2",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": ""
@@ -785,8 +880,8 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "3000",
-            "slides__showBullets": true,
+            "slides__autoplayInterval": "6000",
+            "slides__showBullets": false,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/steel-3419985-1280-1280x853.jpg",
@@ -882,6 +977,24 @@
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/untitled46-2-695x2700.png\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                    Create awesome websites!\n                </div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
           "_cid": "r6mdSh7lnw",
           "_anchor": "image2-4",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#232323"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Na Metgi de Can Pontell, xorca i feliç</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with <b>sharp</b> design and refine coded functions. Altres ja ho haurien escagassat sense avís previ.</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rhvbo7DP0Y",
+          "_anchor": "content4-u",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
