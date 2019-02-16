@@ -1,4 +1,12 @@
 @font-face {
-   font-family: 'Kolar-Regular';
-   src: url('Kolar-Regular/font.ttf');
+   font-family: 'LuissSans-Bold';
+   src: url('LuissSans-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'LuissSans-ThinSans';
+   src: url('LuissSans-ThinSans/font.ttf');
+}
+@font-face {
+   font-family: 'LuissSans-Regular';
+   src: url('LuissSans-Regular/font.ttf');
 }
