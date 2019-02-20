@@ -1,12 +1,12 @@
 @font-face {
-   font-family: 'LuissSans-Bold';
-   src: url('LuissSans-Bold/font.ttf');
+   font-family: 'manrope-thin';
+   src: url('manrope-thin/font.ttf');
 }
 @font-face {
-   font-family: 'LuissSans-ThinSans';
-   src: url('LuissSans-ThinSans/font.ttf');
+   font-family: 'manrope-light';
+   src: url('manrope-light/font.ttf');
 }
 @font-face {
-   font-family: 'LuissSans-Regular';
-   src: url('LuissSans-Regular/font.ttf');
+   font-family: 'manrope-regular';
+   src: url('manrope-regular/font.ttf');
 }
