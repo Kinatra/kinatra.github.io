@@ -13,16 +13,16 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Amiri",
-        "display1Size": "3.0",
-        "display2Font": "manrope-thin",
-        "display2Size": "4.9",
-        "display5Font": "Amiri",
+        "display1Font": "Lato",
+        "display1Size": 4.25,
+        "display2Font": "Lato",
+        "display2Size": 3,
+        "display5Font": "Average",
         "display5Size": "1.9",
-        "display7Font": "manrope-light",
-        "display7Size": "0.9",
-        "display4Font": "manrope-regular",
-        "display4Size": "0.9",
+        "display7Font": "Lato",
+        "display7Size": "1.2",
+        "display4Font": "Lato",
+        "display4Size": 1,
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
@@ -35,43 +35,34 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [
       {
+        "css": "'Noto Sans KR', sans-serif",
+        "name": "Noto Sans KR",
+        "url": "https://fonts.googleapis.com/css?family=Noto+Sans+KR:100,300,400,500,700,900"
+      },
+      {
         "css": "'Mada', sans-serif",
         "name": "Mada",
         "url": "https://fonts.googleapis.com/css?family=Mada:200,300,400,500,600,700,900"
       },
       {
+        "css": "'Average Sans', sans-serif",
+        "name": "Average Sans",
+        "url": "https://fonts.googleapis.com/css?family=Average+Sans:400"
+      },
+      {
+        "css": "'Average', serif",
+        "name": "Average",
+        "url": "https://fonts.googleapis.com/css?family=Average:400"
+      },
+      {
+        "css": "'Nanum Gothic', sans-serif",
+        "name": "Nanum Gothic",
+        "url": "https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800"
+      },
+      {
         "css": "'Lato', sans-serif",
         "name": "Lato",
         "url": "https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
-      },
-      {
-        "css": "'manrope-light'",
-        "name": "manrope-light",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/manrope-light/font.ttf"
-      },
-      {
-        "css": "'manrope-extrabold'",
-        "name": "manrope-extrabold",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/manrope-extrabold/font.ttf"
-      },
-      {
-        "css": "'manrope-thin'",
-        "name": "manrope-thin",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/manrope-thin/font.ttf"
-      },
-      {
-        "css": "'Amiri', serif",
-        "name": "Amiri",
-        "url": "https://fonts.googleapis.com/css?family=Amiri:400,400i,700,700i"
-      },
-      {
-        "css": "'manrope-regular'",
-        "name": "manrope-regular",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/manrope-regular/font.ttf"
       }
     ],
     "versionFirst": "4.7.6",
