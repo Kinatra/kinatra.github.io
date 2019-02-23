@@ -1,4 +1,12 @@
 @font-face {
+   font-family: 'YsabeauSC-Extralight';
+   src: url('YsabeauSC-Extralight/font.ttf');
+}
+@font-face {
+   font-family: 'Ysabeau-Medium';
+   src: url('Ysabeau-Medium/font.ttf');
+}
+@font-face {
    font-family: 'Ysabeau-Regular';
    src: url('Ysabeau-Regular/font.ttf');
 }
