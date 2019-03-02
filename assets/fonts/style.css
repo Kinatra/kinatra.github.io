@@ -1,12 +1,12 @@
 @font-face {
-   font-family: 'YsabeauSC-Extralight';
-   src: url('YsabeauSC-Extralight/font.ttf');
+   font-family: 'euphorigenic';
+   src: url('euphorigenic/font.ttf');
 }
 @font-face {
-   font-family: 'Ysabeau-Medium';
-   src: url('Ysabeau-Medium/font.ttf');
+   font-family: 'YsabeauSC-Light';
+   src: url('YsabeauSC-Light/font.ttf');
 }
 @font-face {
-   font-family: 'Ysabeau-Regular';
-   src: url('Ysabeau-Regular/font.ttf');
+   font-family: 'Charter Bold';
+   src: url('Charter Bold/font.ttf');
 }
