@@ -3,10 +3,14 @@
    src: url('euphorigenic/font.ttf');
 }
 @font-face {
-   font-family: 'YsabeauSC-Light';
-   src: url('YsabeauSC-Light/font.ttf');
+   font-family: 'YsabeauSC-Extralight';
+   src: url('YsabeauSC-Extralight/font.ttf');
 }
 @font-face {
    font-family: 'Charter Bold';
    src: url('Charter Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Charter Regular';
+   src: url('Charter Regular/font.ttf');
 }
