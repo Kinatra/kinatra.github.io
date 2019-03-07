@@ -1,10 +1,6 @@
 @font-face {
-   font-family: 'YsabeauSC-Extralight';
-   src: url('YsabeauSC-Extralight/font.ttf');
-}
-@font-face {
-   font-family: 'Ysabeau-Semilight';
-   src: url('Ysabeau-Semilight/font.ttf');
+   font-family: 'Ysabeau-Regular';
+   src: url('Ysabeau-Regular/font.ttf');
 }
 @font-face {
    font-family: 'YsabeauSC-Regular';
