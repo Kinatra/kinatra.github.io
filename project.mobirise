@@ -14,7 +14,7 @@
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
         "display1Font": "Candal",
-        "display1Size": "1.9",
+        "display1Size": "2.2",
         "display2Font": "Lato",
         "display2Size": 3,
         "display5Font": "Average",
@@ -22,7 +22,7 @@
         "display7Font": "Ysabeau-Regular",
         "display7Size": "0.9",
         "display4Font": "YsabeauSC-Regular",
-        "display4Size": "0.5",
+        "display4Size": "0.9",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
