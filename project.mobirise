@@ -22,7 +22,7 @@
         "display7Font": "Ysabeau-Regular",
         "display7Size": "0.9",
         "display4Font": "YsabeauSC-Regular",
-        "display4Size": "0.9",
+        "display4Size": "0.5",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
