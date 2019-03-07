@@ -6,3 +6,7 @@
    font-family: 'Ysabeau-Regular';
    src: url('Ysabeau-Regular/font.ttf');
 }
+@font-face {
+   font-family: 'YsabeauSC-Regular';
+   src: url('YsabeauSC-Regular/font.ttf');
+}
