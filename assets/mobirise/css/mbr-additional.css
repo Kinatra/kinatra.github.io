@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Baloo:400);
 @import url(https://fonts.googleapis.com/css?family=Average:400);
 
 
@@ -18,32 +18,32 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Candal';
-  font-size: 2.2rem;
+  font-family: 'Baloo', display;
+  font-size: 2.4rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 3.52rem;
+  font-size: 3.84rem;
 }
 .display-2 {
-  font-family: 'Lato', sans-serif;
-  font-size: 3rem;
+  font-family: 'Ysabeau-Extralight';
+  font-size: 5.69rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.8rem;
+  font-size: 9.104rem;
 }
 .display-4 {
-  font-family: 'YsabeauSC-Regular';
-  font-size: 0.9rem;
+  font-family: 'YsabeauSC-Semilight';
+  font-size: 0.8rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.44rem;
+  font-size: 1.28rem;
 }
 .display-5 {
   font-family: 'Average', serif;
-  font-size: 2.2rem;
+  font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 3.52rem;
+  font-size: 2.4rem;
 }
 .display-7 {
   font-family: 'Ysabeau-Regular';
@@ -59,24 +59,24 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 1.76rem;
-    font-size: calc( 1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.92rem;
+    font-size: calc( 1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4.552rem;
+    font-size: calc( 2.6415rem + (5.69 - 2.6415) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.6415rem + (5.69 - 2.6415) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.72rem;
-    font-size: calc( 0.965rem + (0.9 - 0.965) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (0.965rem + (0.9 - 0.965) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.64rem;
+    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.76rem;
-    font-size: calc( 1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.2rem;
+    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -2039,7 +2039,7 @@ body {
 }
 .cid-rhvbo7DP0Y H2 {
   text-align: left;
-  color: #b1a374;
+  color: #b86f1b;
 }
 .cid-rjAfbSyGlv {
   padding-top: 15px;
@@ -2669,7 +2669,7 @@ body {
   color: #232323;
 }
 .cid-riP9g6Didk H2 {
-  color: #b1a374;
+  color: #b86f1b;
   text-align: left;
 }
 .cid-riUYiqAAlG {
@@ -2785,6 +2785,9 @@ body {
   -moz-backface-visibility: visible;
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
+}
+.cid-riP6h9WuuA .mbr-section-title {
+  color: #b86f1b;
 }
 .cid-reLqD5uEwh {
   padding-top: 60px;
