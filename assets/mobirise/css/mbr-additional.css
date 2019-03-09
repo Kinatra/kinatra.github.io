@@ -1,6 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Baloo:400);
 @import url(https://fonts.googleapis.com/css?family=Average:400);
-
 
 body {
   font-style: normal;
@@ -18,21 +16,21 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Baloo', display;
-  font-size: 2.4rem;
+  font-family: 'Kolar-Regular';
+  font-size: 2.2rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 3.84rem;
+  font-size: 3.52rem;
 }
 .display-2 {
-  font-family: 'Ysabeau-Extralight';
-  font-size: 5.69rem;
+  font-family: 'YsabeauSC-Extralight';
+  font-size: 4.8rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 9.104rem;
+  font-size: 7.68rem;
 }
 .display-4 {
-  font-family: 'YsabeauSC-Semilight';
+  font-family: 'YsabeauSC-Regular';
   font-size: 0.9rem;
 }
 .display-4 > .mbr-iconfont {
@@ -46,11 +44,11 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Ysabeau-Regular';
-  font-size: 0.9rem;
+  font-family: 'Ysabeau-Semilight';
+  font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.44rem;
+  font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -59,14 +57,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 1.92rem;
-    font-size: calc( 1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.76rem;
+    font-size: calc( 1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 4.552rem;
-    font-size: calc( 2.6415rem + (5.69 - 2.6415) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.6415rem + (5.69 - 2.6415) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.84rem;
+    font-size: calc( 2.33rem + (4.8 - 2.33) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.33rem + (4.8 - 2.33) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.72rem;
@@ -656,14 +654,14 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Ysabeau-Regular';
-  font-size: 0.9rem;
+  font-family: 'Ysabeau-Semilight';
+  font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.44rem;
+  font-size: 1.6rem;
 }
 .form-control,
 .form-control:focus {
@@ -2039,7 +2037,7 @@ body {
 }
 .cid-rhvbo7DP0Y H2 {
   text-align: left;
-  color: #b86f1b;
+  color: #b5823e;
 }
 .cid-rjAfbSyGlv {
   padding-top: 15px;
@@ -2788,6 +2786,70 @@ body {
 }
 .cid-riP6h9WuuA .mbr-section-title {
   color: #b86f1b;
+}
+.cid-rkeTBt0JoD {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-rkeTBt0JoD .media-wrap {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rkeTBt0JoD .media-wrap .mbr-iconfont-logo {
+  font-size: 7rem;
+  color: #f36;
+}
+.cid-rkeTBt0JoD .media-wrap img {
+  height: 6rem;
+}
+.cid-rkeTBt0JoD .mbr-text {
+  color: #767676;
+}
+@media (max-width: 767px) {
+  .cid-rkeTBt0JoD .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rkeTBt0JoD .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #000;
+  opacity: .05;
+}
+.cid-rkeTBt0JoD .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-rkeTBt0JoD .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #232323;
+}
+.cid-rkeTBt0JoD .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rkeTBt0JoD .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rkeTBt0JoD .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rkeTBt0JoD .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
 }
 .cid-reLqD5uEwh {
   padding-top: 60px;
