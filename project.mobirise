@@ -70,7 +70,7 @@
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "сanonical-url": ""
   },
   "pages": {
