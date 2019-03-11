@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Miauso en català",
-    "currentPage": "marcal.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -13,24 +13,23 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Kolar-Regular",
-        "display1Size": "2.2",
-        "display2Font": "YsabeauSC-Extralight",
-        "display2Size": "4.8",
+        "display1Font": "Lato",
+        "display1Size": 4.25,
+        "display2Font": "Lato",
+        "display2Size": 3,
         "display5Font": "Average",
-        "display5Size": "1.5",
-        "display7Font": "Ysabeau-Semilight",
-        "display7Size": "1",
-        "display4Font": "YsabeauSC-Regular",
-        "display4Size": "0.9",
+        "display5Size": "1.9",
+        "display7Font": "Lato",
+        "display7Size": "1.2",
+        "display4Font": "Lato",
+        "display4Size": 1,
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
         "#fdb319",
-        "#333333",
-        "#b5823e"
+        "#333333"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -64,107 +63,10 @@
         "css": "'Lato', sans-serif",
         "name": "Lato",
         "url": "https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
-      },
-      {
-        "css": "'Ysabeau-Semilight'",
-        "name": "Ysabeau-Semilight",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/Ysabeau-Semilight/font.ttf"
-      },
-      {
-        "css": "'Lato-Bold'",
-        "name": "Lato-Bold",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/Lato-Bold/font.ttf"
-      },
-      {
-        "css": "'Lato-Light'",
-        "name": "Lato-Light",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/Lato-Light/font.ttf"
-      },
-      {
-        "css": "'YsabeauInfant-Light'",
-        "name": "YsabeauInfant-Light",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/YsabeauInfant-Light/font.ttf"
-      },
-      {
-        "css": "'YsabeauInfant-Bold'",
-        "name": "YsabeauInfant-Bold",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/YsabeauInfant-Bold/font.ttf"
-      },
-      {
-        "css": "'Cormorant Unicase', serif",
-        "name": "Cormorant Unicase",
-        "url": "https://fonts.googleapis.com/css?family=Cormorant+Unicase:300,400,500,600,700"
-      },
-      {
-        "css": "'Cormorant Infant', serif",
-        "name": "Cormorant Infant",
-        "url": "https://fonts.googleapis.com/css?family=Cormorant+Infant:300,300i,400,400i,500,500i,600,600i,700,700i"
-      },
-      {
-        "css": "'Cormorant Upright', serif",
-        "name": "Cormorant Upright",
-        "url": "https://fonts.googleapis.com/css?family=Cormorant+Upright:300,400,500,600,700"
-      },
-      {
-        "css": "'Cormorant SC', serif",
-        "name": "Cormorant SC",
-        "url": "https://fonts.googleapis.com/css?family=Cormorant+SC:300,400,500,600,700"
-      },
-      {
-        "css": "'Cormorant Garamond', serif",
-        "name": "Cormorant Garamond",
-        "url": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
-      },
-      {
-        "css": "'Ysabeau-Extralight'",
-        "name": "Ysabeau-Extralight",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/Ysabeau-Extralight/font.ttf"
-      },
-      {
-        "css": "'Lato-Hairline'",
-        "name": "Lato-Hairline",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/Lato-Hairline/font.ttf"
-      },
-      {
-        "css": "'Kolar-Regular'",
-        "name": "Kolar-Regular",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/Kolar-Regular/font.ttf"
-      },
-      {
-        "css": "'Kolar-Light'",
-        "name": "Kolar-Light",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/Kolar-Light/font.ttf"
-      },
-      {
-        "css": "'Kolar-Medium'",
-        "name": "Kolar-Medium",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/Kolar-Medium/font.ttf"
-      },
-      {
-        "css": "'YsabeauSC-Regular'",
-        "name": "YsabeauSC-Regular",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/YsabeauSC-Regular/font.ttf"
-      },
-      {
-        "css": "'YsabeauSC-Extralight'",
-        "name": "YsabeauSC-Extralight",
-        "url": null,
-        "file": "@PROJECT_PATH@/fonts/YsabeauSC-Extralight/font.ttf"
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 22,
+    "uniqCompNum": 21,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -2008,11 +1910,11 @@
           "_name": "footer5",
           "_customHTML": "<section group=\"footer5\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\" checked>\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\" selected>6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background5.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-md-3\">\n                <div class=\"media-wrap\">\n                    <a href=\"https://mobirise.co/\">\n                       <img src=\"../_images/logo2.png\" alt=\"Mobirise\">\n                    </a>\n                </div>\n            </div>\n            <div class=\"col-md-9\">\n                <p class=\"mbr-text align-right links mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".links\">\n                    <a href=\"#\" class=\"text-black\">ABOUT</a> &nbsp;&nbsp;&nbsp;&nbsp;\n                    <a href=\"#\" class=\"text-black\">TERMS</a> &nbsp;&nbsp;&nbsp;&nbsp;\n                    <a href=\"#\" class=\"text-black\">CAREERS</a> &nbsp;&nbsp;&nbsp;&nbsp;\n                    <a href=\"mailto:support@mobirise.com\" class=\"text-black\">CONTACT</a>\n                </p>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-md-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-md-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\">\n                        © Copyright 2019 Mobirise - All Rights Reserved\n                    </p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-twitter socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-facebook socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rkeTBt0JoD",
+          "_anchor": "footer5-l",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "footer5-l"
+          "_params": {}
         },
         {
           "_styles": {
