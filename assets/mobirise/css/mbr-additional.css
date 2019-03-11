@@ -3,8 +3,6 @@
 
 
 
-
-
 body {
   font-style: normal;
   line-height: 1.5;
@@ -22,17 +20,17 @@ body {
 }
 .display-1 {
   font-family: 'Lato', sans-serif;
-  font-size: 4.25rem;
+  font-size: 4rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.8rem;
+  font-size: 6.4rem;
 }
 .display-2 {
-  font-family: 'Lato', sans-serif;
-  font-size: 3rem;
+  font-family: 'Lato-Hairline';
+  font-size: 5.4rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.8rem;
+  font-size: 8.64rem;
 }
 .display-4 {
   font-family: 'Lato', sans-serif;
@@ -49,11 +47,11 @@ body {
   font-size: 3.04rem;
 }
 .display-7 {
-  font-family: 'Lato', sans-serif;
-  font-size: 1.2rem;
+  font-family: 'Ysabeau-Regular';
+  font-size: 0.9rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.44rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -62,14 +60,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.4rem;
-    font-size: calc( 2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.2rem;
+    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4.32rem;
+    font-size: calc( 2.54rem + (5.4 - 2.54) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.54rem + (5.4 - 2.54) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -659,14 +657,14 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Lato', sans-serif;
-  font-size: 1.2rem;
+  font-family: 'Ysabeau-Regular';
+  font-size: 0.9rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.44rem;
 }
 .form-control,
 .form-control:focus {
@@ -2009,11 +2007,12 @@ body {
   text-align: center;
 }
 .cid-r6mdSh7lnw {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background: #ffffff;
 }
 .cid-r6mdSh7lnw .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-r6mdSh7lnw .mbr-figure {
   margin: 0 auto;
@@ -2029,57 +2028,6 @@ body {
 @media (max-width: 768px) {
   .cid-r6mdSh7lnw .image-block {
     width: 100% !important;
-  }
-}
-.cid-rkqsiRZ8KJ {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background: #ffffff;
-}
-.cid-rkqsiRZ8KJ .images-container.container-fluid {
-  padding: 0;
-}
-.cid-rkqsiRZ8KJ .media-container-row {
-  margin: 0 auto;
-  align-items: stretch;
-  -webkit-align-items: stretch;
-  width: 100% !important;
-}
-.cid-rkqsiRZ8KJ .media-container-row .img-item {
-  display: -webkit-flex;
-  flex-direction: column;
-  justify-content: center;
-  position: relative;
-  width: 100%;
-  z-index: 1;
-  -webkit-flex-direction: column;
-  -webkit-justify-content: center;
-}
-.cid-rkqsiRZ8KJ .media-container-row .img-item img {
-  width: 100%;
-  min-height: 1px;
-}
-.cid-rkqsiRZ8KJ .media-container-row .img-item .img-caption {
-  background: #ffffff;
-  z-index: 2;
-  padding: 1rem 1rem;
-  word-break: break-word;
-}
-.cid-rkqsiRZ8KJ .media-container-row .img-item .img-caption p {
-  margin-bottom: 0;
-}
-.cid-rkqsiRZ8KJ .media-container-row .img-item.item1 {
-  padding: 0 2rem 0 0;
-}
-@media (max-width: 992px) {
-  .cid-rkqsiRZ8KJ .img-item {
-    width: 100% !important;
-  }
-  .cid-rkqsiRZ8KJ .img-item.item1 {
-    width: 100%;
-    flex-basis: initial !important;
-    padding: 0 0 2rem 0 !important;
-    -webkit-flex-basis: initial !important;
   }
 }
 .cid-rhvbo7DP0Y {
@@ -2110,7 +2058,7 @@ body {
 }
 .cid-r7Sv7F1bKU {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background: #ffffff;
 }
 .cid-r7Sv7F1bKU .image-block {
