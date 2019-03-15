@@ -1,6 +1,10 @@
 @font-face {
-   font-family: 'Lato-Hairline';
-   src: url('Lato-Hairline/font.ttf');
+   font-family: 'YsabeauSC-Thin';
+   src: url('YsabeauSC-Thin/font.ttf');
+}
+@font-face {
+   font-family: 'YsabeauSC-Light';
+   src: url('YsabeauSC-Light/font.ttf');
 }
 @font-face {
    font-family: 'Ysabeau-Regular';
