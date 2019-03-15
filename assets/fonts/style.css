@@ -1,12 +1,8 @@
 @font-face {
-   font-family: 'Kolar-Regular';
-   src: url('Kolar-Regular/font.ttf');
+   font-family: 'Lato-Hairline';
+   src: url('Lato-Hairline/font.ttf');
 }
 @font-face {
    font-family: 'Ysabeau-Regular';
    src: url('Ysabeau-Regular/font.ttf');
-}
-@font-face {
-   font-family: 'YsabeauSC-Semilight';
-   src: url('YsabeauSC-Semilight/font.ttf');
 }
