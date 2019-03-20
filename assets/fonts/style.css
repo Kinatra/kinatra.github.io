@@ -1,12 +1,20 @@
 @font-face {
-   font-family: 'Kolar-Regular';
-   src: url('Kolar-Regular/font.ttf');
+   font-family: 'IbarraRealNova-Bold';
+   src: url('IbarraRealNova-Bold/font.ttf');
 }
 @font-face {
-   font-family: 'Lato-Hairline';
-   src: url('Lato-Hairline/font.ttf');
+   font-family: 'IbarraRealNova-SemiBold';
+   src: url('IbarraRealNova-SemiBold/font.ttf');
+}
+@font-face {
+   font-family: 'IbarraRealNova-Italic';
+   src: url('IbarraRealNova-Italic/font.ttf');
 }
 @font-face {
    font-family: 'Ysabeau-Regular';
    src: url('Ysabeau-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'YsabeauSC-Semilight';
+   src: url('YsabeauSC-Semilight/font.ttf');
 }
