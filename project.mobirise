@@ -16,7 +16,7 @@
         "display1Font": "BerenisADFPro-Bold",
         "display1Size": "4",
         "display2Font": "BerenisADFPro-Regular",
-        "display2Size": "6.7",
+        "display2Size": "8.5",
         "display5Font": "Average",
         "display5Size": "1.9",
         "display7Font": "Ysabeau-Regular",
@@ -29,7 +29,11 @@
       },
       "additionalSetColors": [
         "#fdb319",
-        "#333333"
+        "#333333",
+        "#333370",
+        "#333390",
+        "#333320",
+        "#252420"
       ]
     },
     "path": "@PROJECT_PATH@",
