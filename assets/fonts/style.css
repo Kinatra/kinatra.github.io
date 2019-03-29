@@ -1,16 +1,12 @@
 @font-face {
-   font-family: 'BerenisADFPro-Bold';
-   src: url('BerenisADFPro-Bold/font.ttf');
-}
-@font-face {
-   font-family: 'BerenisADFPro-Regular';
-   src: url('BerenisADFPro-Regular/font.ttf');
+   font-family: 'Chamuyo';
+   src: url('Chamuyo/font.ttf');
 }
 @font-face {
    font-family: 'Ysabeau-Regular';
    src: url('Ysabeau-Regular/font.ttf');
 }
 @font-face {
-   font-family: 'YsabeauSC-Regular';
-   src: url('YsabeauSC-Regular/font.ttf');
+   font-family: 'YsabeauSC-Semilight';
+   src: url('YsabeauSC-Semilight/font.ttf');
 }

@@ -16,25 +16,25 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'BerenisADFPro-Bold';
+  font-family: 'Chamuyo';
   font-size: 4rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.4rem;
 }
 .display-2 {
-  font-family: 'BerenisADFPro-Regular';
-  font-size: 8.5rem;
+  font-family: 'Chamuyo';
+  font-size: 6.4rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 13.6rem;
+  font-size: 10.24rem;
 }
 .display-4 {
-  font-family: 'YsabeauSC-Regular';
-  font-size: 1rem;
+  font-family: 'YsabeauSC-Semilight';
+  font-size: 0.9rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.44rem;
 }
 .display-5 {
   font-family: 'Average', serif;
@@ -45,10 +45,10 @@ body {
 }
 .display-7 {
   font-family: 'Ysabeau-Regular';
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.44rem;
+  font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -62,14 +62,14 @@ body {
     line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 6.8rem;
-    font-size: calc( 3.625rem + (8.5 - 3.625) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (3.625rem + (8.5 - 3.625) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 5.12rem;
+    font-size: calc( 2.89rem + (6.4 - 2.89) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.89rem + (6.4 - 2.89) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.72rem;
+    font-size: calc( 0.965rem + (0.9 - 0.965) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.965rem + (0.9 - 0.965) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.52rem;
@@ -655,13 +655,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Ysabeau-Regular';
-  font-size: 0.9rem;
+  font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.44rem;
+  font-size: 1.6rem;
 }
 .form-control,
 .form-control:focus {
@@ -1380,12 +1380,12 @@ body {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #635a51;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #635a51;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -1469,7 +1469,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #333333;
+  background: #635a51;
   display: none;
   position: absolute;
   min-width: 5rem;
