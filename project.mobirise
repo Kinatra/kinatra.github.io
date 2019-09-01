@@ -15,8 +15,8 @@
         "mainFont": "Rubik",
         "display1Font": "BerenisADFPro-Bold",
         "display1Size": "4",
-        "display2Font": "Kolar-Regular",
-        "display2Size": "6.9",
+        "display2Font": "Kolar-Medium",
+        "display2Size": "6.7",
         "display5Font": "Average",
         "display5Size": "1.9",
         "display7Font": "Ysabeau-Regular",
@@ -111,6 +111,12 @@
         "name": "Kolar-Regular",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/Kolar-Regular/font.ttf"
+      },
+      {
+        "css": "'Kolar-Medium'",
+        "name": "Kolar-Medium",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/Kolar-Medium/font.ttf"
       }
     ],
     "versionFirst": "4.7.6",
