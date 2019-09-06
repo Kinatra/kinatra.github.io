@@ -31,10 +31,10 @@ body {
 }
 .display-4 {
   font-family: 'Ysabeau-Regular';
-  font-size: 1.2rem;
+  font-size: 1.14rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.824rem;
 }
 .display-5 {
   font-family: 'Average', serif;
@@ -67,9 +67,9 @@ body {
     line-height: calc( 1.4 * (2.82rem + (6.2 - 2.82) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.912rem;
+    font-size: calc( 1.049rem + (1.14 - 1.049) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.049rem + (1.14 - 1.049) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.52rem;
