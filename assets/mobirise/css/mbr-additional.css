@@ -15,17 +15,17 @@ body {
 }
 .display-1 {
   font-family: 'BerenisADFPro-Bold';
-  font-size: 4rem;
+  font-size: 3rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.4rem;
+  font-size: 4.8rem;
 }
 .display-2 {
   font-family: 'BerenisADFPro-Bold';
-  font-size: 6.2rem;
+  font-size: 5.8rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 9.92rem;
+  font-size: 9.28rem;
 }
 .display-4 {
   font-family: 'Ysabeau-Regular';
@@ -55,14 +55,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.2rem;
-    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.4rem;
+    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 4.96rem;
-    font-size: calc( 2.82rem + (6.2 - 2.82) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.82rem + (6.2 - 2.82) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4.64rem;
+    font-size: calc( 2.6799999999999997rem + (5.8 - 2.6799999999999997) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.6799999999999997rem + (5.8 - 2.6799999999999997) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.944rem;
