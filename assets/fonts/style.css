@@ -3,6 +3,10 @@
    src: url('BerenisADFPro-Bold/font.ttf');
 }
 @font-face {
+   font-family: 'PlayfairDisplay-Regular';
+   src: url('PlayfairDisplay-Regular/font.ttf');
+}
+@font-face {
    font-family: 'Ysabeau-Semilight';
    src: url('Ysabeau-Semilight/font.ttf');
 }
