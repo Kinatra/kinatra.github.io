@@ -35,7 +35,7 @@ body {
   font-size: 1.824rem;
 }
 .display-5 {
-  font-family: 'Ysabeau-Semilight';
+  font-family: 'Ysabeau-Regular';
   font-size: 1.3rem;
 }
 .display-5 > .mbr-iconfont {
@@ -2185,7 +2185,7 @@ body {
   margin-bottom: 2rem;
 }
 .cid-rCayfOjdOS .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-rCayfOjdOS a:not([href]):not([tabindex]) {
   color: #fff;
@@ -2196,6 +2196,9 @@ body {
 }
 .cid-rCayfOjdOS textarea.form-control {
   min-height: 188px;
+}
+.cid-rCayfOjdOS H2 {
+  color: #767676;
 }
 .cid-rkO4PY8n0x {
   padding-top: 45px;
