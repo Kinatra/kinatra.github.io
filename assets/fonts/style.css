@@ -1,10 +1,10 @@
 @font-face {
-   font-family: 'BerenisADFPro-Bold';
-   src: url('BerenisADFPro-Bold/font.ttf');
-}
-@font-face {
    font-family: 'BerenisADFPro-Regular';
    src: url('BerenisADFPro-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'Ysabeau-Heavy';
+   src: url('Ysabeau-Heavy/font.ttf');
 }
 @font-face {
    font-family: 'Ysabeau-Regular';
