@@ -3,10 +3,14 @@
    src: url('BerenisADFPro-Regular/font.ttf');
 }
 @font-face {
-   font-family: 'Ysabeau-Heavy';
-   src: url('Ysabeau-Heavy/font.ttf');
+   font-family: 'Truculenta-Bold';
+   src: url('Truculenta-Bold/font.ttf');
 }
 @font-face {
    font-family: 'Ysabeau-Regular';
    src: url('Ysabeau-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'Truculenta-Regular';
+   src: url('Truculenta-Regular/font.ttf');
 }
