@@ -23,7 +23,7 @@ body {
   font-size: 8.16rem;
 }
 .display-2 {
-  font-family: 'Truculenta-Bold';
+  font-family: 'Ysabeau-Heavy';
   font-size: 7.3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -2160,6 +2160,9 @@ body {
   -moz-backface-visibility: visible;
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
+}
+.cid-rEOdrmgZKk .mbr-section-title {
+  color: #82786e;
 }
 .cid-rCOmwfhqvs {
   background: #ffffff;
